@@ -131,7 +131,7 @@
         ConsumerKey="107704292745179"
         ConsumerSecret="38053202e1a5fe26c80c753071f0b573"
         RedirectUrl="http://mob.com"
-        Enable="true" />
+        Enable="false" />
 
     <Twitter
         Id="9"
@@ -139,7 +139,7 @@
         ConsumerKey="LRBM0H75rWrU9gNHvlEAA2aOy"
         ConsumerSecret="gbeWsZvA9ELJSdoBzJ5oLKX0TU09UOwrzdGfo9Tg7DjyGuMe8G"
         CallbackUrl="http://mob.com"
-        Enable="true" />
+        Enable="false" />
     
     <Renren
         Id="10"
