@@ -69,16 +69,16 @@
     <TencentWeibo
         Id="2" 
         SortId="2"
-        AppKey="801307650"
-        AppSecret="ae36f4ee3946e1cbb98d6965b0b2ff5c"
+        AppKey="1941da5ee4e16"
+        AppSecret="e7cfa71825b88738aba4f3fe992be5ce"
         RedirectUri="http://sharesdk.cn"
         Enable="true" />
     
     <QZone
         Id="3"
         SortId="3"
-        AppId="100371282"
-        AppKey="aed9b0303e3ed1e27bae87c33761161d"
+        AppId="1941da5ee4e16"
+        AppKey="e7cfa71825b88738aba4f3fe992be5ce"
         Enable="true" />
     
     <!-- 
@@ -98,7 +98,7 @@
         SortId="4"
         AppId="wx4868b35061f87885"
         AppSecret="64020361b8ec4c99936c0e3999a9f249"
-        BypassApproval="false"
+        BypassApproval="true"
         Enable="true" />
     
     <WechatMoments
@@ -106,7 +106,7 @@
         SortId="5"
         AppId="wx4868b35061f87885"
         AppSecret="64020361b8ec4c99936c0e3999a9f249"
-        BypassApproval="false"
+        BypassApproval="true"
         Enable="true" />
         
 	<WechatFavorite
@@ -120,8 +120,8 @@
 	<QQ
         Id="7"
         SortId="7"
-        AppId="100371282"
-        AppKey="aed9b0303e3ed1e27bae87c33761161d"
+        AppId="1941da5ee4e16"
+        AppKey="e7cfa71825b88738aba4f3fe992be5ce"
         ShareByAppClient="true"
         Enable="true" />
     
