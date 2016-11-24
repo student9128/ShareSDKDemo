@@ -58,7 +58,7 @@
             android:exported="true"
             android:screenOrientation="portrait" />
 
-        <!--易信分享回调 -->
+    <!--    &lt;!&ndash;易信分享回调 &ndash;&gt;
         <activity
             android:name=".yxapi.YXEntryActivity"
             android:theme="@android:style/Theme.Translucent.NoTitleBar"
@@ -66,13 +66,13 @@
             android:exported="true"
             android:screenOrientation="portrait" />
 
-        <!-- 支付宝分享回调 -->
+        &lt;!&ndash; 支付宝分享回调 &ndash;&gt;
         <activity
             android:name=".apshare.ShareEntryActivity"
             android:theme="@android:style/Theme.Translucent.NoTitleBar"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:exported="true"/>
-
+-->
     </application>
 
 </manifest>
